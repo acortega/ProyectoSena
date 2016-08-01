@@ -2,4 +2,4 @@
 
 Test
 
-![Logo](website/static/save.png)
+![Logo](website/static/delete.png)
